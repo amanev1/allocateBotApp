@@ -1,0 +1,41 @@
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Bot Application.dll.config
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Bot Application.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Bot Application.pdb
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Autofac.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Chronic.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.Bot.Builder.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.Bot.Connector.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Newtonsoft.Json.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.Net.Http.Formatting.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.Web.Http.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.Web.Http.WebHost.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Autofac.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.Bot.Builder.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.Bot.Connector.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\Newtonsoft.Json.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.Net.Http.Formatting.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.Web.Http.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\System.Web.Http.WebHost.xml
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\obj\Debug\Bot Application.dll
+c:\users\andrej.manev\documents\visual studio 2015\Projects\AllocateBotApp\AllocateBotApp\obj\Debug\Bot Application.pdb
